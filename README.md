@@ -3,6 +3,7 @@
   In this project we used our newly acquired full-stack skills and knowledge to build a web application from scratch. Working collaboratively as a team, we have executed our design by integrating data received from multiple server-side API requests. Together we have learned the git branch workflow and pull requests. We have worked through several road blocks while executing our design and teamed up to slove more difficult bug fixes.
 
 # Lyrics to Go
+By: Jerry Forsberg, Joey Reyes, Yulia Tikhonova
   Our web application, 'Lyrics to Go' is designed to provide the user with album artwork and lyrics based on the artist and song title they search for. We have achived a streamline user interface with a minimalist design aesthetic leveraged sass and 'md' for bootstrap for intuitive interactivity. 
  
 ## Getting Album Artwork
