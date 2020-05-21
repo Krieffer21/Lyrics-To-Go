@@ -4,6 +4,7 @@
 
 # Lyrics to Go
 By: Jerry Forsberg, Joey Reyes, Yulia Tikhonova
+
   Our web application, 'Lyrics to Go' is designed to provide the user with album artwork and lyrics based on the artist and song title they search for. We have achived a streamline user interface with a minimalist design aesthetic leveraged sass and 'md' for bootstrap for intuitive interactivity. 
  
 ## Getting Album Artwork
